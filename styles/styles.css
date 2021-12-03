@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.time-container{
+    margin: 1rem;
+}
+.time-container .time{
+    font-size: 3rem;
+    margin-top: 1rem;
+    font-weight: 700;
+}
+.time-container .date{
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
